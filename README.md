@@ -25,3 +25,10 @@ Resume Maker is an Android application built using **Java**, designed to help us
 4. Add a profile picture and select its shape.
 5. Click the **Generate PDF** button to create your resume.
 6. Use the **Reset** button to clear all data if needed.
+
+## How to Run
+
+1. Clone this repository: `https://github.com/Dhaneshwari09/Resume-Maker-App/edit/master/README.md`
+2. Open the project in Android Studio.
+3. Build and run the app on an emulator or physical device.
+
